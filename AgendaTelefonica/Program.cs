@@ -6,16 +6,18 @@ namespace AgendaTelefonica
     {
         static void Main(string[] args)
         {   
-            Console.Write("Cadastro Agenda Telefónica");
-            Console.WriteLine();
-            Console.Write("Digite seu Nome: ");
+            Console.WriteLine("====================");
+            Console.WriteLine("===== Cadastro =====");
+            Console.WriteLine("====================");
+            System.Console.Write("Digite seu Nome: ");
             string Nome = Console.ReadLine();
-            Console.Write("Digite seu Telefone: ");
-            string Telefone = Console.ReadLine();
-            Console.Write("Digite seu Aniversário: ");
-            string Aniversario = Console.ReadLine();
+            System.Console.Write("Digite seu Telefone: ");
+            int Telefone = int.Parse(Console.ReadLine());
+            System.Console.Write("Digite sua data de Aniversário: ");
+            int Aniversário = int.Parse(Console.ReadLine());
 
             Usuario usuario = new Usuario();
+
             
         }
     }

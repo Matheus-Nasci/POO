@@ -1,17 +1,16 @@
 namespace AgendaTelefonica {
     public class Registro {
-        // Aqui vai os atributos da classe Usuário da AgendaTelefonica 
-        private string Nome;
-        private string Telefone;
-        private string Aniversario;
-        // Criar uma Classe para o construtor 
-        private Registro(string Nome, string Telefone, string Aniversario)
+        // Aqui vai os atributos da classe Registro da AgendaTelefonica 
+        private string Nome {get;set;}
+        private int Telefone {get;set;}
+        private int Aniversario {get;set;}
+
+        private Registro(string Nome, int Telefone, int Aniversario)
         {
             this.Nome = Nome;
             this.Telefone = Telefone;
             this.Aniversario = Aniversario;
         }
-        
 
     }
 }

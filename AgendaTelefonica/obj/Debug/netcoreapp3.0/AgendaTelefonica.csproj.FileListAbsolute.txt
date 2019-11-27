@@ -1,0 +1,11 @@
+C:\Users\Matheus\Desktop\Orientação e Obj\AgendaTelefonica\bin\Debug\netcoreapp3.0\AgendaTelefonica.exe
+C:\Users\Matheus\Desktop\Orientação e Obj\AgendaTelefonica\bin\Debug\netcoreapp3.0\AgendaTelefonica.deps.json
+C:\Users\Matheus\Desktop\Orientação e Obj\AgendaTelefonica\bin\Debug\netcoreapp3.0\AgendaTelefonica.runtimeconfig.json
+C:\Users\Matheus\Desktop\Orientação e Obj\AgendaTelefonica\bin\Debug\netcoreapp3.0\AgendaTelefonica.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\Orientação e Obj\AgendaTelefonica\bin\Debug\netcoreapp3.0\AgendaTelefonica.dll
+C:\Users\Matheus\Desktop\Orientação e Obj\AgendaTelefonica\bin\Debug\netcoreapp3.0\AgendaTelefonica.pdb
+C:\Users\Matheus\Desktop\Orientação e Obj\AgendaTelefonica\obj\Debug\netcoreapp3.0\AgendaTelefonica.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Orientação e Obj\AgendaTelefonica\obj\Debug\netcoreapp3.0\AgendaTelefonica.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Orientação e Obj\AgendaTelefonica\obj\Debug\netcoreapp3.0\AgendaTelefonica.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Orientação e Obj\AgendaTelefonica\obj\Debug\netcoreapp3.0\AgendaTelefonica.dll
+C:\Users\Matheus\Desktop\Orientação e Obj\AgendaTelefonica\obj\Debug\netcoreapp3.0\AgendaTelefonica.pdb
