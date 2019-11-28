@@ -14,9 +14,11 @@ namespace AgendaTelefonica
             System.Console.Write("Digite seu Telefone: ");
             int Telefone = int.Parse(Console.ReadLine());
             System.Console.Write($"Digite sua data de Aniversário: ");
-            int Aniversario = int.Parse(Console.ReadLine());
+            DateTime Aniversario = int.Parse(Console.ReadLine());
 
             Registro registro = new Registro(Nome, Telefone, Aniversario);
+
+            
 
             
             
