@@ -25,10 +25,5 @@ namespace Cliente
             this.Estado = Estado;
             this.Cep = Cep;
         }
-
-        Nome nome = new Nome();
-        Cpf cpf = new Cpf();
-        Rg rg = new Rg();
-        
     }
 }

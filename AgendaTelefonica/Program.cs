@@ -2,7 +2,7 @@
 
 namespace AgendaTelefonica
 {
-    class Program
+    class Program 
     {
         static void Main(string[] args)
         {   
@@ -13,11 +13,12 @@ namespace AgendaTelefonica
             string Nome = Console.ReadLine();
             System.Console.Write("Digite seu Telefone: ");
             int Telefone = int.Parse(Console.ReadLine());
-            System.Console.Write("Digite sua data de Aniversário: ");
-            int Aniversário = int.Parse(Console.ReadLine());
+            System.Console.Write($"Digite sua data de Aniversário: ");
+            int Aniversario = int.Parse(Console.ReadLine());
 
-            Usuario usuario = new Usuario();
+            Registro registro = new Registro(Nome, Telefone, Aniversario);
 
+            
             
         }
     }

@@ -1,0 +1,11 @@
+C:\Users\44337427830\Desktop\POO\AgendaTelefonica\obj\Debug\netcoreapp2.2\AgendaTelefonica.csprojAssemblyReference.cache
+C:\Users\44337427830\Desktop\POO\AgendaTelefonica\obj\Debug\netcoreapp2.2\AgendaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\44337427830\Desktop\POO\AgendaTelefonica\obj\Debug\netcoreapp2.2\AgendaTelefonica.AssemblyInfoInputs.cache
+C:\Users\44337427830\Desktop\POO\AgendaTelefonica\obj\Debug\netcoreapp2.2\AgendaTelefonica.AssemblyInfo.cs
+C:\Users\44337427830\Desktop\POO\AgendaTelefonica\bin\Debug\netcoreapp2.2\AgendaTelefonica.deps.json
+C:\Users\44337427830\Desktop\POO\AgendaTelefonica\bin\Debug\netcoreapp2.2\AgendaTelefonica.runtimeconfig.json
+C:\Users\44337427830\Desktop\POO\AgendaTelefonica\bin\Debug\netcoreapp2.2\AgendaTelefonica.runtimeconfig.dev.json
+C:\Users\44337427830\Desktop\POO\AgendaTelefonica\bin\Debug\netcoreapp2.2\AgendaTelefonica.dll
+C:\Users\44337427830\Desktop\POO\AgendaTelefonica\bin\Debug\netcoreapp2.2\AgendaTelefonica.pdb
+C:\Users\44337427830\Desktop\POO\AgendaTelefonica\obj\Debug\netcoreapp2.2\AgendaTelefonica.dll
+C:\Users\44337427830\Desktop\POO\AgendaTelefonica\obj\Debug\netcoreapp2.2\AgendaTelefonica.pdb
