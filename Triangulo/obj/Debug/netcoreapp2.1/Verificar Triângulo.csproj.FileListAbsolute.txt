@@ -1,0 +1,11 @@
+C:\Users\Matheus Nascimento\Desktop\POO\Triangulo\obj\Debug\netcoreapp2.1\Verificar Triângulo.csprojAssemblyReference.cache
+C:\Users\Matheus Nascimento\Desktop\POO\Triangulo\obj\Debug\netcoreapp2.1\Verificar Triângulo.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Nascimento\Desktop\POO\Triangulo\obj\Debug\netcoreapp2.1\Verificar Triângulo.AssemblyInfoInputs.cache
+C:\Users\Matheus Nascimento\Desktop\POO\Triangulo\obj\Debug\netcoreapp2.1\Verificar Triângulo.AssemblyInfo.cs
+C:\Users\Matheus Nascimento\Desktop\POO\Triangulo\bin\Debug\netcoreapp2.1\Verificar Triângulo.deps.json
+C:\Users\Matheus Nascimento\Desktop\POO\Triangulo\bin\Debug\netcoreapp2.1\Verificar Triângulo.runtimeconfig.json
+C:\Users\Matheus Nascimento\Desktop\POO\Triangulo\bin\Debug\netcoreapp2.1\Verificar Triângulo.runtimeconfig.dev.json
+C:\Users\Matheus Nascimento\Desktop\POO\Triangulo\bin\Debug\netcoreapp2.1\Verificar Triângulo.dll
+C:\Users\Matheus Nascimento\Desktop\POO\Triangulo\bin\Debug\netcoreapp2.1\Verificar Triângulo.pdb
+C:\Users\Matheus Nascimento\Desktop\POO\Triangulo\obj\Debug\netcoreapp2.1\Verificar Triângulo.dll
+C:\Users\Matheus Nascimento\Desktop\POO\Triangulo\obj\Debug\netcoreapp2.1\Verificar Triângulo.pdb

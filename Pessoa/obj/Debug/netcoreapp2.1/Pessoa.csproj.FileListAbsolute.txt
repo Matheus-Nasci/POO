@@ -1,0 +1,11 @@
+C:\Users\Matheus Nascimento\Desktop\POO\Pessoa\bin\Debug\netcoreapp2.1\Pessoa.deps.json
+C:\Users\Matheus Nascimento\Desktop\POO\Pessoa\bin\Debug\netcoreapp2.1\Pessoa.runtimeconfig.json
+C:\Users\Matheus Nascimento\Desktop\POO\Pessoa\bin\Debug\netcoreapp2.1\Pessoa.runtimeconfig.dev.json
+C:\Users\Matheus Nascimento\Desktop\POO\Pessoa\bin\Debug\netcoreapp2.1\Pessoa.dll
+C:\Users\Matheus Nascimento\Desktop\POO\Pessoa\bin\Debug\netcoreapp2.1\Pessoa.pdb
+C:\Users\Matheus Nascimento\Desktop\POO\Pessoa\obj\Debug\netcoreapp2.1\Pessoa.csprojAssemblyReference.cache
+C:\Users\Matheus Nascimento\Desktop\POO\Pessoa\obj\Debug\netcoreapp2.1\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Nascimento\Desktop\POO\Pessoa\obj\Debug\netcoreapp2.1\Pessoa.AssemblyInfoInputs.cache
+C:\Users\Matheus Nascimento\Desktop\POO\Pessoa\obj\Debug\netcoreapp2.1\Pessoa.AssemblyInfo.cs
+C:\Users\Matheus Nascimento\Desktop\POO\Pessoa\obj\Debug\netcoreapp2.1\Pessoa.dll
+C:\Users\Matheus Nascimento\Desktop\POO\Pessoa\obj\Debug\netcoreapp2.1\Pessoa.pdb

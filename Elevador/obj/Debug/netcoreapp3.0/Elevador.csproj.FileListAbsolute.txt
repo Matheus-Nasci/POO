@@ -1,3 +1,0 @@
-C:\Users\Matheus\Desktop\Orientação e Obj\Elevador\obj\Debug\netcoreapp3.0\Elevador.csprojAssemblyReference.cache
-C:\Users\Matheus\Desktop\Orientação e Obj\Elevador\obj\Debug\netcoreapp3.0\Elevador.AssemblyInfoInputs.cache
-C:\Users\Matheus\Desktop\Orientação e Obj\Elevador\obj\Debug\netcoreapp3.0\Elevador.AssemblyInfo.cs

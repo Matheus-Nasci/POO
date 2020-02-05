@@ -7,10 +7,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Elevador")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Verificar Triângulo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Elevador")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Elevador")]
+[assembly: System.Reflection.AssemblyProductAttribute("Verificar Triângulo")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Verificar Triângulo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
